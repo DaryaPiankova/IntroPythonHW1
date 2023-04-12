@@ -1,1 +1,7 @@
-
+summa = int(input('Введите общую сумму журавликов: '))
+katya = int(summa/1.5)
+petya = int(summa/6)
+sergey = int(petya)
+print(petya)
+print(katya)
+print(sergey)
